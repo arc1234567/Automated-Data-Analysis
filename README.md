@@ -1,2 +1,2 @@
 # Automated-Data-Analysis
-Data Desciption, Visualization and pre-processing in just one click.
+Data Description, Visualization and Pre-processing in just one click.
